@@ -1,4 +1,4 @@
-let glb_var = 0;
+`let glb_var = 0;
 
 function Fact(number){
 //created by Harsh Dudhat 21CE026
@@ -22,4 +22,4 @@ function Fact(number){
 
     let num = 5;
     let result = Fact(num);
-    console.log(`Factorial of ${num} is : `, result);
+    console.log(`Factorial of ${num} is : `, result);`
